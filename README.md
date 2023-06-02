@@ -1,3 +1,7 @@
+# Windows .exe Build of https://github.com/dreemhai/Youtube-Transcriber using pyinstaller
+See https://github.com/studiobloom/Youtube-Transcriber.exe-Win/releases/tag/v0.0.1 
+<br><br><br><br><br><br><br><br><br><br>
+
 # 🤖🎬 YouTube Audio-to-Text Transcription 🎧📝
 
 Unleash the power of automation with this sophisticated and user-friendly script that downloads audio from YouTube videos, transcribes the content into text, detects the language of the transcribed text, and saves the transcription to a text file. Save time, effort, and resources by harnessing cutting-edge technology to streamline the transcription process.
