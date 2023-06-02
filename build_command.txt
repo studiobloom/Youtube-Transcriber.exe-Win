@@ -1,0 +1,1 @@
+pyinstaller --add-data "whisper\assets;whisper\assets" --onefile youtube_audio_to_text.py
